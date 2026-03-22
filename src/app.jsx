@@ -10,7 +10,7 @@ const GOOGLE_SHEETS_CONFIG = {
 };
 
 // Web App URL (من Google Apps Script)
-const WEB_APP_URL = 'YOUR_WEB_APP_URL_HERE';
+const WEB_APP_URL = '<https://script.google.com/macros/s/AKfycbxaqy2AIpBUZQgc2zmS7CxCd6Z0zoZzVD1l_w7rHsPQ1uR8oQt7M_SvAVs8sqpzVk6ZWQ/exec>';
 
 // ==================== MAIN COMPONENT ====================
 export default function MarketingMindsetExam() {
